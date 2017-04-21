@@ -1,0 +1,46 @@
+/* Tour page styles */
+.flex{
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    }
+
+.heading{
+  display: inline-block;
+  margin: 0;
+  color: #fff;
+}
+
+.pick{
+  width: 40px;
+  height: 0%;
+  padding: 10px;
+}
+
+
+table {
+  width: 100%;
+  text-align: left;
+  background-color: #fff;
+  font-size: .8em;
+  color: #101216;
+  border-collapse: collapse;
+}
+
+caption {
+  margin-bottom: 25px;
+  color: yellow;
+}
+
+tr {
+  border-bottom: 1.5px solid #101216;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+thead {
+  background-color: yellow;
+}
