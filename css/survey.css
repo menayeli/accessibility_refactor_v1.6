@@ -34,10 +34,7 @@ input[type="email"],
 textarea,
 button {
   outline: none;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  border-radius: none;
+  border-radius: 10px;
   border: 2px;
   padding: 5px;
   color: #101216;
